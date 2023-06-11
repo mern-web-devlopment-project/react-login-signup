@@ -98,7 +98,7 @@ class SignUpComponent extends Component {
         <div className='mb-3'>
           <label>Email</label>
           <input
-          type='text'
+          type='email'
           className='form-control'
           placeholder='Enter your email'
           required
