@@ -78,7 +78,7 @@ class LoginComponent extends Component {
           />
         </div>
         <div>
-          <button type='submit' className='btn btn-primary'>Sign Up</button>
+          <button type='submit' className='btn btn-primary'>Login</button>
         </div>
         <p className='forgot-password text-right'>
           Create account, <a href='/signup'>Sign-up here?</a>
