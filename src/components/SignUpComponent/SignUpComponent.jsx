@@ -121,7 +121,7 @@ class SignUpComponent extends Component {
           <button type='submit' className='btn btn-primary'>Sign Up</button>
         </div>
         <p className='forgot-password text-right'>
-          Already registered, <a href='/login'>Sign-int here?</a>
+          Already registered, <a href='/login'>Sign-in here?</a>
         </p>
       </form>
     )
